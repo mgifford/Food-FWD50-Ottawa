@@ -78,11 +78,9 @@ Tips:
 
 ## History
 
-I used this in a conference in Barcelona
-https://github.com/mgifford/EHRCON25-Barcelona
+I used this first for [EHRCON25 in Barcelona](https://github.com/mgifford/EHRCON25-Barcelona).
 
-But it is based on an idea from the Linux Foundation's Open Source Summit Europe by Shirley Bailes:
-https://github.com/shirleybailes/oss-europe-amsterdam-food
+But it is based on an idea by Shirley Bailes for the [Linux Foundation's Open Source Summit Europe](https://github.com/shirleybailes/oss-europe-amsterdam-food).
 
 ---
 
