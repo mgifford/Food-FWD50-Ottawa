@@ -5,7 +5,7 @@ Neighborhood: Lower Town
 Address: 425 Dalhousie St, Ottawa, ON K1N 6E4  
 Link: [faunaottawa.ca](https://faunaottawa.ca)  
 
-From Rogers Centre: ~10 min walk
+From Rogers Centre: ~7 min walk
 
 Why it is good:  
 - Modern Canadian cuisine with focus on local, seasonal ingredients  

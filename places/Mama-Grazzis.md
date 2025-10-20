@@ -5,7 +5,7 @@ Neighborhood: Lower Town
 Address: 25 George St, Ottawa, ON K1N 8W5  
 Link: [mamagrazzis.com](https://mamagrazzis.com)  
 
-From Rogers Centre: ~6 min walk
+From Rogers Centre: ~8 min walk
 
 Why it is good:  
 - Authentic Italian cuisine with homemade pasta and sauces  

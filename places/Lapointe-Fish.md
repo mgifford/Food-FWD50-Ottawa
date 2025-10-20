@@ -5,7 +5,7 @@ Neighborhood: ByWard Market (Lower Town)
 Address: 96 George St, Ottawa, ON K1N 5W2  
 Link: [lapointefish.com](https://lapointefish.com)  
 
-From Rogers Centre: ~7 min walk
+From Rogers Centre: ~10 min walk
 
 Why it is good:  
 - Fresh fish market and restaurant with daily selections  

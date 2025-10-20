@@ -6,7 +6,7 @@ Address: 250 City Centre Ave, Ottawa, ON K1R 6K7
 Link: [artisinbakery.com](https://artisinbakery.com)  
 Google Maps: [View on Google Maps](https://maps.google.com/maps?q=250+City+Centre+Ave,+Ottawa,+ON+K1R+6K7)
 
-From Rogers Centre: ~5 min walk
+From Rogers Centre: ~25 min walk or 8 min drive
 
 Why it is good:  
 - Local Ottawa institution known for fresh-baked goods and excellent coffee  

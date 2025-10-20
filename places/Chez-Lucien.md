@@ -5,7 +5,7 @@ Neighborhood: ByWard Market (Lower Town)
 Address: 137 Murray St, Ottawa, ON K1N 5M5  
 Link: [chezlucien.com](https://chezlucien.com)  
 
-From Rogers Centre: ~8 min walk
+From Rogers Centre: ~14 min walk
 
 Why it is good:  
 - Classic bistro atmosphere with excellent burgers and comfort food  

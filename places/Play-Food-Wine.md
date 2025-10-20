@@ -5,7 +5,7 @@ Neighborhood: ByWard Market
 Address: 1 ByWard Market Square, Ottawa, ON K1N 7A1  
 Link: [playfoodandwine.com](https://playfoodandwine.com)  
 
-From Rogers Centre: ~6 min walk
+From Rogers Centre: ~12 min walk
 
 Why it is good:  
 - Modern Canadian cuisine in the heart of ByWard Market  

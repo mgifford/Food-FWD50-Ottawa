@@ -5,7 +5,7 @@ Neighborhood: ByWard Market
 Address: 18 York St, Ottawa, ON K1N 5S6  
 Link: [sidedoorrestaurant.com](https://sidedoorrestaurant.com)  
 
-From Rogers Centre: ~8 min walk
+From Rogers Centre: ~9 min walk
 
 Why it is good:  
 - Creative contemporary cuisine with local ingredients  

@@ -6,7 +6,7 @@ Address: 150 Nepean St, Ottawa, ON K2P 0B4
 Link: [beckta.com](https://beckta.com)  
 Google Maps: [View on Google Maps](https://maps.google.com/maps?q=150+Nepean+St,+Ottawa,+ON+K2P+0B4)
 
-From Rogers Centre: ~8 min walk
+From Rogers Centre: ~24 min walk or 7 min drive
 
 Why it is good:  
 - Award-winning Canadian restaurant known for exceptional cuisine and wine pairings  

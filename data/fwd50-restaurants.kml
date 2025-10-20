@@ -159,6 +159,33 @@
       </Point>
     </Placemark>
     
+    <Placemark>
+      <name>Thali</name>
+      <description>Authentic Indian cuisine with traditional thali-style meals. 15 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6903,45.4204,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Pure Kitchen Elgin</name>
+      <description>Plant-based restaurant with fresh healthy options. 12 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6890,45.4180,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>JOEY RIDEAU</name>
+      <description>Modern casual dining with globally-inspired menu. 8 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6925,45.4285,0</coordinates>
+      </Point>
+    </Placemark>
+    
     <!-- Styles -->
     <Style id="venue-style">
       <IconStyle>

@@ -5,7 +5,7 @@ Neighborhood: ByWard Market
 Address: 366 Dalhousie St, Ottawa, ON K1N 7G1  
 Link: [primotreats.ca](https://primotreats.ca)  
 
-From Rogers Centre: ~8 min walk
+From Rogers Centre: ~9 min walk
 
 Why it is good:  
 - Local coffee roaster with excellent beans and pastries  

@@ -5,7 +5,7 @@ Neighborhood: Downtown
 Address: 540 Rochester St, Ottawa, ON K1S 4M2  
 Link: [atelierrestaurant.ca](http://atelierrestaurant.ca)  
 
-From Rogers Centre: ~12 min drive/taxi
+From Rogers Centre: ~15 min drive - too far to walk
 
 Why it is good:  
 - Canada's first restaurant to offer a 12-course molecular gastronomy tasting menu  

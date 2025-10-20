@@ -33,6 +33,7 @@ If you only have time for a few meals:
 - Each place has its own Markdown file in `/places` with details (address, neighborhood, why it's good, tips).  
 - The full list is also in `/data/places.csv` for quick reference with Google Maps links.  
 - **Interactive Map**: Download `/data/fwd50-restaurants.kml` to view all restaurants on Google Earth, Google Maps, or any mapping app that supports KML files.
+- **Google Maps with All Restaurants**: [View all 19 restaurants on one map](https://www.google.com/maps/dir/55+Colonel+By+Drive,+Ottawa,+ON/150+Nepean+St,+Ottawa,+ON+K2P+0B4/540+Rochester+St,+Ottawa,+ON+K1S+4M2/231+Elgin+St,+Ottawa,+ON+K2P+1L9/250+City+Centre+Ave,+Ottawa,+ON+K1R+6K7/1+ByWard+Market+Square,+Ottawa,+ON+K1N+7A1/18+York+St,+Ottawa,+ON+K1N+5S6/69+George+St,+Ottawa,+ON+K1N+5W2/11+Colonel+By+Dr,+Ottawa,+ON+K1N+9H4/366+Dalhousie+St,+Ottawa,+ON+K1N+7G1/425+Dalhousie+St,+Ottawa,+ON+K1N+6E4/62+Sparks+St,+Ottawa,+ON+K1P+5A8/137+Murray+St,+Ottawa,+ON+K1N+5M5/96+George+St,+Ottawa,+ON+K1N+5W2/74+George+St,+Ottawa,+ON+K1N+5W1/25+George+St,+Ottawa,+ON+K1N+8W5/317+Somerset+St+E,+Ottawa,+ON+K1N+6K2/136+O'Connor+St,+Ottawa,+ON+K2P+2G7/340+Elgin+St,+Ottawa,+ON+K2P+1M6/50+Rideau+St,+Ottawa,+ON+K1N+9J7) - opens in Google Maps with directions between all locations
 - Contributions are welcome — see [How to Contribute](#how-to-contribute).  
 
 ---
@@ -72,6 +73,16 @@ Dietary notes:
 
 Tips:  
 - reservations? small room? good for groups? best time to go?
+
+---
+
+## History
+
+I used this in a conference in Barcelona
+https://github.com/mgifford/EHRCON25-Barcelona
+
+But it is based on an idea from the Linux Foundation's Open Source Summit Europe by Shirley Bailes:
+https://github.com/shirleybailes/oss-europe-amsterdam-food
 
 ---
 

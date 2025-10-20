@@ -2,11 +2,11 @@
 
 Category: food  
 Neighborhood: Downtown  
-Address: 430 Bank St, Ottawa, ON K2P 1Y4  
-Link: [thewhalesbone.com](https://thewhalesbone.com)  
-Google Maps: [View on Google Maps](https://maps.google.com/maps?q=430+Bank+St,+Ottawa,+ON+K2P+1Y4)
+Address: 231 Elgin St, Ottawa ON K2P 1L6 
+Link: [thewhalesbone.com](https://thewhalesbone.com/pages/elgin-street-menu)  
+Google Maps: [View on Google Maps](https://maps.app.goo.gl/hrHkhc7y4SykSYkXA)
 
-From Rogers Centre: ~10 min walk
+From Rogers Centre: ~19 min walk
 
 Why it is good:  
 - Ottawa's premier oyster bar with daily fresh selections from both coasts  

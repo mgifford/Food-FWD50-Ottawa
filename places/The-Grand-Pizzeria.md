@@ -5,7 +5,7 @@ Neighborhood: Lower Town
 Address: 74 George St, Ottawa, ON K1N 5W1  
 Link: [thegrandpizzeria.ca](https://thegrandpizzeria.ca)  
 
-From Rogers Centre: ~7 min walk
+From Rogers Centre: ~8 min walk
 
 Why it is good:  
 - Upscale pizza with creative toppings and craft cocktails  
