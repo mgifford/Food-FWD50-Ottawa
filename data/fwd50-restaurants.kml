@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>FWD50 Ottawa Restaurants</name>
+    <description>Food and drink recommendations near Rogers Centre Ottawa for FWD50 conference attendees</description>
+    
+    <!-- Rogers Centre (Conference Venue) -->
+    <Placemark>
+      <name>Rogers Centre Ottawa (FWD50 Venue)</name>
+      <description>Conference venue for FWD50 2025</description>
+      <styleUrl>#venue-style</styleUrl>
+      <Point>
+        <coordinates>-75.6919,45.4235,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Restaurants -->
+    <Placemark>
+      <name>Beckta</name>
+      <description>Award-winning Canadian restaurant with exceptional cuisine and wine pairings. 8 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6950,45.4220,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>The Whalesbone</name>
+      <description>Ottawa's premier oyster bar with daily fresh selections from both coasts. 10 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6930,45.4190,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Art-Is-In Bakery</name>
+      <description>Local institution known for fresh-baked goods and excellent coffee. 5 min walk from venue.</description>
+      <styleUrl>#coffee-style</styleUrl>
+      <Point>
+        <coordinates>-75.6905,45.4240,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Play Food &amp; Wine</name>
+      <description>Modern Canadian cuisine in heart of ByWard Market. 6 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6925,45.4285,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Sidedoor Contemporary</name>
+      <description>Creative contemporary cuisine in beautiful historic building. 8 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6930,45.4275,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>BeaverTails</name>
+      <description>Iconic Ottawa treat - must-try local experience. 7 min walk from venue.</description>
+      <styleUrl>#dessert-style</styleUrl>
+      <Point>
+        <coordinates>-75.6920,45.4280,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>The Shore Club</name>
+      <description>Convenient Westin Hotel location with canal views. 2 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6915,45.4238,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Primo Treats</name>
+      <description>Local coffee roaster with excellent beans and cozy atmosphere. 8 min walk from venue.</description>
+      <styleUrl>#coffee-style</styleUrl>
+      <Point>
+        <coordinates>-75.6910,45.4270,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Fauna</name>
+      <description>Modern Canadian cuisine with focus on local seasonal ingredients. 10 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6900,45.4260,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Riviera</name>
+      <description>Upscale French-Canadian bistro with excellent wine program. 12 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6960,45.4210,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Chez Lucien</name>
+      <description>Classic bistro atmosphere with excellent burgers since 1987. 8 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6935,45.4290,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Lapointe Fish</name>
+      <description>Fresh fish market and restaurant with daily selections. 7 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6918,45.4282,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>The Grand Pizzeria</name>
+      <description>Upscale pizza with creative toppings and craft cocktails. 7 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6922,45.4278,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Mama Grazzi's Kitchen</name>
+      <description>Authentic Italian cuisine with homemade pasta in historic building. 6 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6925,45.4275,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Saigon Boy</name>
+      <description>Authentic Vietnamese cuisine with fresh ingredients and traditional flavors. 10 min walk from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.6880,45.4250,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Atelier</name>
+      <description>Canada's first 12-course molecular gastronomy tasting menu restaurant. 12 min drive from venue.</description>
+      <styleUrl>#restaurant-style</styleUrl>
+      <Point>
+        <coordinates>-75.7050,45.4150,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Styles -->
+    <Style id="venue-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="restaurant-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="coffee-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="dessert-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+  </Document>
+</kml>
