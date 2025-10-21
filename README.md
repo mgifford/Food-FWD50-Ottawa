@@ -9,8 +9,11 @@ If you've got a favorite café, bar, or restaurant near the venue, please add it
 **FWD50 2025** is a two-day in-person event focusing on analytics, metrics, ROI (Day 1) and policy-first transformation (Day 2). The conference features speakers from across Canada's digital government ecosystem, with sessions, workshops, braindates, and networking opportunities.
 
 **Event Highlights:**
+- **November 2nd**: Foresight and Future Thinking Meetup (7pm Location: Father & Sons)
+- **November 3rd**: [FWD50 Games Night](https://fwd50.com/session/1930/fwd50-game-night). (6:00 PM EST – 8:00 PM EST at the Conference Centre) - Volunteers needed, talk to Derek  
 - **November 3rd**: Analytics, Metrics & ROI day featuring sessions on Goodhart's Law, digital product management, AI readiness, and accessibility
-- **November 4th**: Policy-First Transformation day with sessions on policy in beta, procurement policy, and lean policy design  
+- **November 4th**: Policy-First Transformation day with sessions on policy in beta, procurement policy, and lean policy design
+- **November 4th**: [Digital Community Mixer](https://www.eventbrite.co.uk/e/digital-community-mixer-rencontre-de-la-communaute-numerique-tickets-1835087559289?aff=ebdssbdestsearch&keep_tld=1) (5-7pm: Lowertown Brewery)
 - **Networking**: Braindates, speaker office hours, and a Game Night on November 3rd evening
 - **Food**: Complimentary breakfast provided both mornings; lunch options available nearby
 
