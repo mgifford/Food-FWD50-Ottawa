@@ -93,5 +93,10 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
+## Acknowlegments
+This may have been supported by AI. 
+
+---
+
 ## Code of Conduct
 Be kind and respectful. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
